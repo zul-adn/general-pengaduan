@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/general-pengaduan/static/css/main.0ecdcfe8.chunk.css",
+    "main.js": "/general-pengaduan/static/js/main.7403450b.chunk.js",
+    "main.js.map": "/general-pengaduan/static/js/main.7403450b.chunk.js.map",
+    "runtime-main.js": "/general-pengaduan/static/js/runtime-main.35cc612c.js",
+    "runtime-main.js.map": "/general-pengaduan/static/js/runtime-main.35cc612c.js.map",
+    "static/js/2.e03d5436.chunk.js": "/general-pengaduan/static/js/2.e03d5436.chunk.js",
+    "static/js/2.e03d5436.chunk.js.map": "/general-pengaduan/static/js/2.e03d5436.chunk.js.map",
+    "static/js/3.b6e22949.chunk.js": "/general-pengaduan/static/js/3.b6e22949.chunk.js",
+    "static/js/3.b6e22949.chunk.js.map": "/general-pengaduan/static/js/3.b6e22949.chunk.js.map",
+    "index.html": "/general-pengaduan/index.html",
+    "static/css/main.0ecdcfe8.chunk.css.map": "/general-pengaduan/static/css/main.0ecdcfe8.chunk.css.map",
+    "static/js/2.e03d5436.chunk.js.LICENSE.txt": "/general-pengaduan/static/js/2.e03d5436.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/general-pengaduan/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35cc612c.js",
+    "static/js/2.e03d5436.chunk.js",
+    "static/css/main.0ecdcfe8.chunk.css",
+    "static/js/main.7403450b.chunk.js"
+  ]
+}
